@@ -2,7 +2,7 @@
  * @license MIT
  * @author Thorsten Willert
  * @version 1.1.0
- * 2023-2024
+ * 2024
  */
 
 import fs from 'fs/promises';
