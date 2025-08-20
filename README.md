@@ -43,5 +43,5 @@ node script.js -d path/to/your/directory --confirm
  ___
 
 ## Author
-2024 Thorsten Willert
+2025 Thorsten Willert
 
